@@ -1,6 +1,17 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "Adding_a_new_key" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Key Added"
+          }
+        }
+      }
+    },
     "Hello" : {
       "extractionState" : "manual",
       "localizations" : {
