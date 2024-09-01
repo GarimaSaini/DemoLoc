@@ -1,8 +1,8 @@
 #
 # Your Crowdin credentials
 #
-"project_id": "711891"
-"api_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJ3UUVxdmhVM3ZMT2EyWGljbVV5VCIsImp0aSI6ImJhMWFjYzM3ZjE3MTljYWY3MDYxNTZhZmEwZjM3ZGIyMWJkOGRjODNkNDhiMDc5ZThiNGU3NzBjYTkwOTkzZTljZDc0ZjYwODE3ZjFlMzc1IiwiaWF0IjoxNzI1MDIwNTc1LjkwNDgxNSwibmJmIjoxNzI1MDIwNTc1LjkwNDgxOCwiZXhwIjoxNzU2NTU2NTc1LjgzMjE5NCwic3ViIjoiMTY1NTMxNTUiLCJzY29wZXMiOlsicHJvamVjdCJdLCJkb21haW4iOm51bGwsImFzc29jaWF0aW9ucyI6WyIqIl0sImxvZ2luX21ldGhvZCI6bnVsbCwic2Vzc2lvbiI6MH0.pSj4DJY0xnKb2l8epJVlwWqeViGTK2QdZHvussqgBZ7ZDQrhoMLJI7h9uvc50GAnXYYc9hFoInODNHLcDy_Wiz5qJV3g4nTpEynSr47JWtyU7wSR1rigM0QRw2P12p6iXKc5T8ks89Jgplq6jogL9T1EIrIgocK9jpvBnDgnCBaV628x6MNlEkgE_9pa3L318eBYtoEkKKiGMGWP5NWH7_axBlycpAV8bFtQAYFJAB_5DmwGKJVcmYQPjSv5Y3k15JLpZhHge81ZSd6SwW7LHmCsDDrQm47pGe_kALFQo6s4x-wnG4M8BHkIcdNxU5nsbBSwymQcD9KtMlrqC1Hry2TR9DZUNDXichj4Hse1WZiol7PitjDMrHiwDVoFRj7SssLwbjz3E5zpEKkT0eZe78NLOFJofI6Vt_B6ucbNdvnBdqXvl8alKqwCdyYP4FMse6w1fYp59i9idGM2Z4P0IyBdbs53G_4pNa3oPAtBv2l7HG0x7deShkfgQPfOeBiNTbr_QkIQwgn99jy-Y5OrdWe4wz2V0BNiyL1-5OgqqgjCzjyb1csekYp3f_CytenZert18odS7EpX8AlGTnphPvdHFnD0w5YsjXiSiiYJt2GFlosA9RIPwXOVGWrQOjHl7KUjbXVpbBNg8jjK2lwB1n7uT5DUAp8D1dRC-9MxFPw"
+"project_id": "712503"
+"api_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJ3UUVxdmhVM3ZMT2EyWGljbVV5VCIsImp0aSI6IjRlNDIyNTY1NjJiMTFjY2Y4MjM4ZGU4MmRiMzBjN2RjNDVlODk2OGI0NGQyMTNkZjg0ZDg1Y2YwODRhNjExYzM0NWQyMGM5NDgxOTA5MTNkIiwiaWF0IjoxNzI1MTcwMzgzLjM4ODcyNywibmJmIjoxNzI1MTcwMzgzLjM4ODcyOSwiZXhwIjoxNzU2NzA2MzgzLjMxOTA2Niwic3ViIjoiMTY1NTYzNjciLCJzY29wZXMiOlsicHJvamVjdCJdLCJkb21haW4iOm51bGwsImFzc29jaWF0aW9ucyI6WyIqIl0sImxvZ2luX21ldGhvZCI6bnVsbCwic2Vzc2lvbiI6MH0.VtB7mCZ3iB2qex5mHLVrXBNC5mH1zoWwp14jqy8UDw6Y--fIUFPRrdAUKvCj-TJr9nXGh6CYqUvJqzDNCk7gTU8nLKBhgD3NWaIvOR9ogCZS7egXxGV23VyzXgsXuzxdVRyUa2f-a4180H91svHagUiOlg80bKjl28b1Kc-_4l8l11v7XrxFI_5_EQ029-gintMX09bKKK4rcGH4agyOn9LA1VkCgHkhFoefgwRUGX8mRM4rPaRJLQaqRsgZTkZ1cY4_Emc_cwDPIK1my7ll2TS0DQLT2yRGiV-of-xyJ-aHyw4iTksQjirZlzsqcTG4ENvfW1GfsfQV1BeOJp5kYml1zh-OpeBLBfVAqUDWxru1M76LChr1-cSwajQdeqOx6ipQ5yT4mDF21iUhr2o7WPmfiYy-QAgNoiyjHpO1B9uaoBN3H1yAXIqicB_6pqJkc72cO8tIas8jGQ1x-R1KqK-lT-j5LQn63vrIniUENxhHkW_DLX_IZdkPV9vsP2yC0ruhDWMy0Npxh1JX9l3ftCJ5a6ym7YyKZS6q6KHRTS-2fjrx3vue9KsJeoM9nwfW7HvMqpdykfMSoSO98nIJyYPZeYFAJ8-Zl7Ntwtdj2LSyKWOZyIUffVTDI5JBQwLE93sby9EcBHVmb_asFOccFLxZP86nbnkgjEl1xJ5eASQ"
 "base_path": "."
 "base_url": "https://api.crowdin.com"
 
@@ -17,11 +17,17 @@
 #
 files: [
   {
+    #
+    # Source files filter
+    # e.g. "/resources/en/*.json"
+    #
+    "source": "",
 
-    source: "/*.xcstrings",
-    translation: "path/to/translation/%locale%/",
-
-
+    #
+    # Where translations will be placed
+    # e.g. "/resources/%two_letters_code%/%original_file_name%"
+    #
+    "translation": "",
 
     #
     # Files or directories for ignore
